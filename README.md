@@ -1,6 +1,6 @@
 - Hi 👋, I'm Ahshan!
 - 🔭 I’m currently working on my course.
-- 🌱 I’m currently learning Data structures and Algorithms.
+- 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 📫 How to reach me: LinkedIn [https://www.linkedin.com/in/ahshan-alam-16297221a/]
 - ⚡ Fun fact: I prefer tea over coffee :)
